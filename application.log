@@ -1,0 +1,93 @@
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/username, GET} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"PlanetsController {/planets}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, DELETE} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, PUT} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"SatellitesController {/satellites}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, DELETE} route","service":"application-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"application-service"}
+{"level":"info","message":"All Planets found","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/username, GET} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"PlanetsController {/planets}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, DELETE} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, PUT} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"SatellitesController {/satellites}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, DELETE} route","service":"application-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"application-service"}
+{"level":"info","message":"All Planets found","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/username, GET} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"PlanetsController {/planets}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, DELETE} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, PUT} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"SatellitesController {/satellites}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, DELETE} route","service":"application-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"application-service"}
+{"level":"info","message":"All Planets found","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/username, GET} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"PlanetsController {/planets}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, DELETE} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, PUT} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"SatellitesController {/satellites}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, DELETE} route","service":"application-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/username, GET} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"PlanetsController {/planets}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, DELETE} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, PUT} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"SatellitesController {/satellites}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, DELETE} route","service":"application-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/username, GET} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"PlanetsController {/planets}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, DELETE} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/planets/:slug, PUT} route","service":"application-service"}
+{"context":"RoutesResolver","level":"info","message":"SatellitesController {/satellites}:","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, POST} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, GET} route","service":"application-service"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/satellites/:slug, DELETE} route","service":"application-service"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started","service":"application-service"}

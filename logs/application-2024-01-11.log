@@ -1,0 +1,46 @@
+2024-01-11 14:38:31 [info]: AppController {/}:
+2024-01-11 14:38:31 [info]: Mapped {/, GET} route
+2024-01-11 14:38:31 [info]: Mapped {/username, GET} route
+2024-01-11 14:38:31 [info]: PlanetsController {/planets}:
+2024-01-11 14:38:31 [info]: Mapped {/planets, POST} route
+2024-01-11 14:38:31 [info]: Mapped {/planets, GET} route
+2024-01-11 14:38:31 [info]: Mapped {/planets/:slug, GET} route
+2024-01-11 14:38:31 [info]: Mapped {/planets/:slug, DELETE} route
+2024-01-11 14:38:31 [info]: Mapped {/planets/:slug, PUT} route
+2024-01-11 14:38:31 [info]: SatellitesController {/satellites}:
+2024-01-11 14:38:31 [info]: Mapped {/satellites, POST} route
+2024-01-11 14:38:31 [info]: Mapped {/satellites, GET} route
+2024-01-11 14:38:31 [info]: Mapped {/satellites/:slug, GET} route
+2024-01-11 14:38:31 [info]: Mapped {/satellites/:slug, DELETE} route
+2024-01-11 14:38:31 [info]: Nest application successfully started
+2024-01-11 14:38:57 [info]: All Planets found
+2024-01-11 14:39:29 [info]: AppController {/}:
+2024-01-11 14:39:29 [info]: Mapped {/, GET} route
+2024-01-11 14:39:29 [info]: Mapped {/username, GET} route
+2024-01-11 14:39:29 [info]: PlanetsController {/planets}:
+2024-01-11 14:39:29 [info]: Mapped {/planets, POST} route
+2024-01-11 14:39:29 [info]: Mapped {/planets, GET} route
+2024-01-11 14:39:29 [info]: Mapped {/planets/:slug, GET} route
+2024-01-11 14:39:29 [info]: Mapped {/planets/:slug, DELETE} route
+2024-01-11 14:39:29 [info]: Mapped {/planets/:slug, PUT} route
+2024-01-11 14:39:29 [info]: SatellitesController {/satellites}:
+2024-01-11 14:39:29 [info]: Mapped {/satellites, POST} route
+2024-01-11 14:39:29 [info]: Mapped {/satellites, GET} route
+2024-01-11 14:39:29 [info]: Mapped {/satellites/:slug, GET} route
+2024-01-11 14:39:29 [info]: Mapped {/satellites/:slug, DELETE} route
+2024-01-11 14:39:29 [info]: Nest application successfully started
+2024-01-11 14:40:14 [info]: AppController {/}:
+2024-01-11 14:40:14 [info]: Mapped {/, GET} route
+2024-01-11 14:40:14 [info]: Mapped {/username, GET} route
+2024-01-11 14:40:14 [info]: PlanetsController {/planets}:
+2024-01-11 14:40:14 [info]: Mapped {/planets, POST} route
+2024-01-11 14:40:14 [info]: Mapped {/planets, GET} route
+2024-01-11 14:40:14 [info]: Mapped {/planets/:slug, GET} route
+2024-01-11 14:40:14 [info]: Mapped {/planets/:slug, DELETE} route
+2024-01-11 14:40:14 [info]: Mapped {/planets/:slug, PUT} route
+2024-01-11 14:40:14 [info]: SatellitesController {/satellites}:
+2024-01-11 14:40:14 [info]: Mapped {/satellites, POST} route
+2024-01-11 14:40:14 [info]: Mapped {/satellites, GET} route
+2024-01-11 14:40:14 [info]: Mapped {/satellites/:slug, GET} route
+2024-01-11 14:40:14 [info]: Mapped {/satellites/:slug, DELETE} route
+2024-01-11 14:40:14 [info]: Nest application successfully started
